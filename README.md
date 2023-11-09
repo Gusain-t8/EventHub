@@ -1,5 +1,5 @@
 # EventHub
-helps to register an users for on events conducted in college fests with simple logic with secured way
+helps to register users for events conducted in college fests with simple logic in a secured way
 
 # Installation
 
